@@ -80,5 +80,5 @@ variable "aws-region" {
 
 
 ## VPC Setup
-    - For the steps, please refer to:
-    - For the syntax, please refer to:
+    - For the steps, please refer to: https://github.com/Alex-935/Cloud_IaC_-_VPC/blob/main/Day1/documentation.md
+    - For the syntax, please refer to: https://github.com/Alex-935/Cloud_IaC_-_VPC/blob/main/Terraform/make-vpc-instance/main.tf
